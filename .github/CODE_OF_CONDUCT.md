@@ -5,12 +5,15 @@ This Code of Conduct outlines how we, the contributors of the Student Portal pro
 ---
 
 ## Scope
+
 This Code of Conduct applies to all team members and covers all activities related to the Student Portal project, including coding, documentation, testing, and collaboration within the team.
 
 ---
 
 ## Our Standards
+
 We commit to the following standards:
+
 - **Respect:** Treat all team members with courtesy, listen actively, and communicate constructively.
 - **Responsibility:** Take ownership of assigned features, write clean and well-documented code.
 - **Integrity:** Do your own work, give credit where it is due, and avoid plagiarism. Do not use AI tools to generate project work
@@ -19,7 +22,9 @@ We commit to the following standards:
 ---
 
 ## Our Pledge
+
 We, as contributors of the Student Portal project, pledge to:
+
 - Uphold the standards listed above.
 - Take responsibility for our assigned features and ensure quality work.
 - Communicate openly and resolve issues respectfully within the team.
